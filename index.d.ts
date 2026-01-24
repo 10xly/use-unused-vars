@@ -1,1 +1,3 @@
-function use(x): void
+declare function use(x): void
+
+export = use
